@@ -1,0 +1,28 @@
+{
+  "name": "nextFEM",
+  "version": "1.0.0",
+  "description": "Front end master's next.js course",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannyhannyford/nextFEM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyhannyford/nextFEM/issues"
+  },
+  "homepage": "https://github.com/dannyhannyford/nextFEM#readme",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
