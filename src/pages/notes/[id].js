@@ -6,6 +6,7 @@ const Page = () => {
   const { id } = router.query;
   return (
     <>
+      {console.log(process.env.SECRET)}
       Note {id}
     </>
   )
